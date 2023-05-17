@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add User - Already Registered Username - Error</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf6376bc-7a6f-4233-b665-575158c6c51c</testCaseGuid>
+</TestCaseEntity>

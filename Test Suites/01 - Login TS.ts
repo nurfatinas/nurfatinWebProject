@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>01 - Login TS</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>c96452b0-f1fa-4c52-a98e-cb5706ba58b6</testSuiteGuid>
+   <testCaseLink>
+      <guid>b31ce751-3e8d-41c5-bd3e-03c60c47023c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/01 - Login/Login - Invalid Password - Error</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9ff4b6c1-f583-4626-831a-900a8ffa6a91</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bf96331a-e417-46b9-a2a0-d25ef841ef76</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>878e5cca-987c-41b6-a929-4809f339be8f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/01 - Login/Login - Invalid Username - Error</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f92b7a95-6642-44ed-8867-7c6c3846f99b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>592e9fb8-fc6b-4bf4-97ad-977ff7e2a626</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0bee0beb-6304-4964-bcfa-fbfd1817ec74</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/01 - Login/Login - Valid Credentials - Success</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7e7d7d66-720c-4375-bd4d-a09dd4db5320</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>76aba2be-48d4-424f-bb40-935dd6e9d32f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1696ef7d-17d3-4efa-812f-c8cf88baf4b5</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

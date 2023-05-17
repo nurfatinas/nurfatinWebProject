@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Users - Valid Username - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2215828-34f0-4cf8-b10f-73b03f0b7ba7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f514436e-2363-4b06-89b3-0110e15937b9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Aaliyah.Haq'</defaultValue>
+      <description>valid username</description>
+      <id>f514436e-2363-4b06-89b3-0110e15937b9</id>
+      <masked>false</masked>
+      <name>validUser</name>
+   </variable>
+</TestCaseEntity>

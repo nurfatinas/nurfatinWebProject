@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Users - Invalid Username - Error</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2562ed49-0cf5-4c13-bf00-a172f3f11727</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>801af71c-2347-40cb-831a-c1dd3611b8ad</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Nurfatin\r\n'</defaultValue>
+      <description>invalid username</description>
+      <id>801af71c-2347-40cb-831a-c1dd3611b8ad</id>
+      <masked>false</masked>
+      <name>invalidUser</name>
+   </variable>
+</TestCaseEntity>

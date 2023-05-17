@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Employement Status - Valid Status - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a52cc50-1b7d-4532-9677-07e9f2a06043</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>f6ff57df-9e5a-421e-8f43-75d09407fa8f</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Employement Status</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>f6ff57df-9e5a-421e-8f43-75d09407fa8f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>status</value>
+      <variableId>0cc621d8-1512-4952-91ce-bbfa23e557d8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0cc621d8-1512-4952-91ce-bbfa23e557d8</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variable>
+</TestCaseEntity>
