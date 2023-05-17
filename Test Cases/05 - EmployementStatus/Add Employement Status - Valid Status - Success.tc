@@ -7,7 +7,7 @@
    <testCaseGuid>2a52cc50-1b7d-4532-9677-07e9f2a06043</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
-      <id>f6ff57df-9e5a-421e-8f43-75d09407fa8f</id>
+      <id>08760a42-72fa-4ee6-aca1-2e083a9cf639</id>
       <iterationEntity>
          <iterationType>ALL</iterationType>
          <value></value>
@@ -15,7 +15,7 @@
       <testDataId>Data Files/Employement Status</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId>f6ff57df-9e5a-421e-8f43-75d09407fa8f</testDataLinkId>
+      <testDataLinkId>08760a42-72fa-4ee6-aca1-2e083a9cf639</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>status</value>
       <variableId>0cc621d8-1512-4952-91ce-bbfa23e557d8</variableId>
