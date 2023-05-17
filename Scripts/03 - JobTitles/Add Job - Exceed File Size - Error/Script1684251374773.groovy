@@ -40,7 +40,7 @@ WebUI.setText(findTestObject('Page_OrangeHRM/job/job_jobTitles/input_JobDescript
 WebUI.setText(findTestObject('Page_OrangeHRM/job/job_jobTitles/input_Note'), 'Testing123')
 
 'Upload more than 1MB file'
-CustomKeywords.'master.RobotUpload.uploadFile'(findTestObject('Page_OrangeHRM/job/job_jobTitles/button_Browse'), 'C:\\Users\\abdul\\Desktop\\combinepdf.pdf')
+CustomKeywords.'master.RobotUpload.uploadFile'(findTestObject('Page_OrangeHRM/job/job_jobTitles/button_Browse'), 'C:\\Users\\abdul\\Desktop\\LargeFile.pdf')
 
 WebUI.click(findTestObject('Page_OrangeHRM/job/job_jobTitles/button_SaveJobTitle'))
 
