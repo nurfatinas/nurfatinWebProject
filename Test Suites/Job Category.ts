@@ -29,7 +29,7 @@
       <guid>0482a8e2-0c8c-4297-9452-161362e9c7ea</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/BDD - Add Job Category</testCaseId>
+      <testCaseId>Test Cases/06 - Job Category/BDD - Add Job Category</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
