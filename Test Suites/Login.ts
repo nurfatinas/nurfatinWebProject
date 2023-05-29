@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>01 - Login TS</name>
+   <name>Login</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,9 +10,9 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>c96452b0-f1fa-4c52-a98e-cb5706ba58b6</testSuiteGuid>
+   <testSuiteGuid>ef0a0212-dedf-42bc-9f3f-e56c9db1cf8c</testSuiteGuid>
    <testCaseLink>
-      <guid>b31ce751-3e8d-41c5-bd3e-03c60c47023c</guid>
+      <guid>66a69f85-2ab9-403a-8b64-dbfcc9bd9503</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/01 - Login/Login - Invalid Password - Error</testCaseId>
@@ -31,7 +31,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>878e5cca-987c-41b6-a929-4809f339be8f</guid>
+      <guid>05f76cb7-5410-4387-9b5e-b0d1f76e365c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/01 - Login/Login - Invalid Username - Error</testCaseId>
@@ -50,7 +50,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>0bee0beb-6304-4964-bcfa-fbfd1817ec74</guid>
+      <guid>d8b324c1-4c52-4cf6-a566-41d1eccc123d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/01 - Login/Login - Valid Credentials - Success</testCaseId>

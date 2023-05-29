@@ -49,8 +49,7 @@ public class JobCategory {
 	def redirectedToPage(String status) {
 
 		WebUI.verifyElementPresent(findTestObject('Page_OrangeHRM/job/job_jobCategory/verify_SuccessfullySaved'), 0)
+		
 		WebUI.closeBrowser()
 	}
-
-
 }

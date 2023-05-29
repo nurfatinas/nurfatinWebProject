@@ -33,7 +33,7 @@ WebUI.click(findTestObject('Page_OrangeHRM/user_addUser/select_Status'))
 WebUI.click(findTestObject('Page_OrangeHRM/user_addUser/span_Enabled'))
 
 'Enter employee name'
-WebUI.setText(findTestObject('Page_OrangeHRM/user_addUser/input_EmployeeName'), 'Charlie  Carter')
+WebUI.setText(findTestObject('Page_OrangeHRM/user_addUser/input_EmployeeName'), 'Khoa  Beo')
 
 WebUI.click(findTestObject('Page_OrangeHRM/user_addUser/username_Charlie Carter'))
 

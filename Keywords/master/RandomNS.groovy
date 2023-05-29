@@ -21,9 +21,10 @@ public class RandomNS {
 		}
 
 		KeywordUtil.logInfo('Generated Input: ' + str+randNum)
-		
+
 		return (str+randNum).toString();
 	}
+
 
 
 	@Keyword

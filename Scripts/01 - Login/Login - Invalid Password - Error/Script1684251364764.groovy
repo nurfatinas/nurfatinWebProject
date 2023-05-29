@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl(GlobalVariable.URL)
+WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
 
 'Login with valid username'
 WebUI.setText(findTestObject('Page_OrangeHRM/login/input_LoginUsername'), validUsername)
